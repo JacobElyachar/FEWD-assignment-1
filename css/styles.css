@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100vh;
+  width: 100ww;
+  margin: 0;
+  padding: 0;
+}
+hr {
+  border: 1 px solid black;
+}
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.about-me {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
